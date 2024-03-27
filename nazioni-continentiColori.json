@@ -205,11 +205,6 @@
       {"nome": "North America", "colore": "#FF6347"},
       {"nome": "South America", "colore": "#FF4500"},
       {"nome": "Oceania", "colore": "#20B2AA"}
-    ],
-    "dms": [
-      {"nome": "DM's Open", "colore": "#00FF00"},
-      {"nome": "DM's Closed", "colore": "#FF0000"},
-      {"nome": "Ask For DM", "colore": "#FFFF00"}
     ]
 }
   
